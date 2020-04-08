@@ -1,8 +1,8 @@
-import React from 'react' ;
+import React from './node_modules/react';
 
 export class Heading extends React.Component {
     render ()
     {
-        return <h1>Our First Companent</h1>
+        return <h1>Our First Component</h1>
     }
 }
